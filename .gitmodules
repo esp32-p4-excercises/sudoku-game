@@ -1,0 +1,3 @@
+[submodule "components/sudoku/Sudoku-Generator"]
+	path = components/sudoku/Sudoku-Generator
+	url = git@github.com:chegewara/Sudoku-Generator.git
